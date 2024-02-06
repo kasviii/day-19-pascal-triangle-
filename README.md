@@ -1,11 +1,11 @@
-#Pascal's Triangle Generator
+# Pascal's Triangle Generator
 This Python program generates Pascal's triangle up to a specified height and prints it out.
 
-##usage
+## usage
 Enter the height of Pascal's triangle when prompted.
 The program will generate and print Pascal's triangle up to the specified height.
 
-##Example
+## Example
 Enter the height of Pascal's triangle: 5
 [1]
 [1, 1]
